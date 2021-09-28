@@ -5,17 +5,17 @@ public class HW2 {
     // При решении "олимпиадной задачки" в конце второго урока, была допущена неточность: конструкция if (value < 100 || value >1000) позволяет ввести значение 1000. Перед тысячей надо поставить >=
 
     public static void main(String[] args) {
-        starzzzz();
+        System.out.println("***************************************************");
         System.out.println(summ(10,11));
-        starzzzz();
+        System.out.println("***************************************************");
         System.out.println(check(-5));
-        starzzzz();
+        System.out.println("***************************************************");
         System.out.println(check2(6));
-        starzzzz();
+        System.out.println("***************************************************");
         print("Прювет",3);
-        starzzzz();
+        System.out.println("***************************************************");
         System.out.println(year(2020));
-        starzzzz();
+        System.out.println("***************************************************");
     }
 
     public static boolean summ(int a,int b){
@@ -54,10 +54,6 @@ public class HW2 {
         else {
             return false;
         }
-    }
-
-    public static void starzzzz() {
-        System.out.println("***************************************************");
     }
 
 }
