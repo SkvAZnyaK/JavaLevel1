@@ -54,7 +54,7 @@ public class HomeWorkApp {
 
     public static void drawCat() {
         System.out.println("BONUS");
-        System.out.println("Просто интересно, а вы любите котиков?");
+        System.out.println("Просто интересно, а вы любите котиков? )))))))");
         System.out.println("           _..---...,\"\"-._     ,/}/)\n" +
                 "        .''        ,      ``..'(/-<\n" +
                 "       /   _      {      )         \\\n" +
